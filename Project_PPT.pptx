@@ -1,0 +1,70 @@
+1. Project_PPT.pptx (5 Slides)
+Slide 1: Project Introduction
+
+Title: House Price Prediction Using Machine Learning
+
+Prepared By: Kaushlendra Yadav
+
+Objective:
+
+Analyze house price dataset
+Perform data cleaning and EDA
+Build machine learning models
+Predict house prices
+Slide 2: Data Cleaning & Preprocessing
+
+Dataset Information
+
+Source: Kaggle House Price Dataset
+Total Records: XXXX
+Total Features: XXXX
+
+Cleaning Steps
+
+Removed duplicate records
+Handled missing values
+Encoded categorical columns
+Applied feature scaling
+Slide 3: Exploratory Data Analysis
+
+Insert screenshots of:
+
+House Price Distribution
+Correlation Heatmap
+Living Area vs Sale Price
+Overall Quality vs Sale Price
+
+Key Insights
+
+Larger houses generally have higher prices.
+Overall quality strongly affects house price.
+Garage capacity influences selling price.
+Slide 4: Model Building & Results
+
+Models Used
+
+Linear Regression
+Random Forest Regressor
+Model	R² Score
+Linear Regression	XX
+Random Forest	XX
+
+Evaluation Metrics
+
+MAE
+RMSE
+R² Score
+Slide 5: Conclusion & Future Scope
+
+Conclusion
+
+Successfully predicted house prices.
+Random Forest performed better than Linear Regression.
+Important features identified using feature importance.
+
+Future Scope
+
+XGBoost
+Hyperparameter Tuning
+Larger Dataset
+Deep Learning Models

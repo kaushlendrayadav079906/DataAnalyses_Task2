@@ -1,0 +1,13 @@
+REFLECTION REPORT
+
+This project focused on predicting house prices using machine learning techniques. The primary objective was to perform end-to-end data analysis on a real-world housing dataset and develop predictive models capable of estimating house prices accurately.
+
+The first phase of the project involved understanding the dataset and performing data cleaning. Missing values were identified and handled using appropriate techniques. Duplicate records were removed to ensure data quality. Categorical features were converted into numerical values using label encoding, making the dataset suitable for machine learning algorithms.
+
+The exploratory data analysis phase provided valuable insights into the relationships between different housing features and the target variable, Sale Price. Various visualizations such as histograms, scatter plots, box plots, and correlation heatmaps helped identify significant factors affecting house prices. Features such as overall quality, living area, and garage capacity showed strong relationships with the target variable.
+
+Two machine learning models were implemented: Linear Regression and Random Forest Regressor. The dataset was divided into training and testing sets using an 80:20 ratio. Both models were trained and evaluated using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score. The Random Forest model achieved better predictive performance compared to Linear Regression due to its ability to capture complex relationships within the data.
+
+One challenge encountered during the project was handling missing values and selecting appropriate preprocessing techniques. Another challenge was understanding the impact of different features on house prices. Feature importance analysis helped overcome this challenge by identifying the most influential variables.
+
+In the future, the project can be improved by applying advanced machine learning algorithms such as XGBoost and Gradient Boosting. Hyperparameter tuning and larger datasets may further improve prediction accuracy. Overall, this project enhanced practical skills in data preprocessing, visualization, machine learning model development, and performance evaluation.
